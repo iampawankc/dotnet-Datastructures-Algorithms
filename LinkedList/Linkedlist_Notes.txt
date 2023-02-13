@@ -1,0 +1,22 @@
+How to reverse a linkedlist
+Take 3 pointers
+current = head
+prev = null
+next = is a fwd pointers
+
+fwd = curr.next
+
+prev = curr
+curr = next
+
+curr.next = prev
+********************************************
+
+check if linkedlist is palindrome
+
+
+Questions
+Merge 2 linkedlists in zig-zag format
+Reverse a linkedlist
+Told a linkedlist (***IMP***)
+Merge two sorted linkedlist
