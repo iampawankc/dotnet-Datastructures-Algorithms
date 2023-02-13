@@ -11,3 +11,7 @@ Merge 2 linkedlists in zig-zag format
 Reverse a linkedlist
 Told a linkedlist (***IMP***)
 Merge two sorted linkedlist
+
+Trees
+1.Find the min node in the tree
+2.Find the sum of all node of the tree
