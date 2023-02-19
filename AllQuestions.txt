@@ -7,11 +7,18 @@ Stack questions
 6.Largest area histogram
 
 Linkedlist Questions
-Merge 2 linkedlists in zig-zag format
-Reverse a linkedlist
-Told a linkedlist (***IMP***)
-Merge two sorted linkedlist
+1.Merge 2 linkedlists in zig-zag format
+2.Reverse a linkedlist
+3.Told a linkedlist (***IMP***)
+4.Merge two sorted linkedlist
 
 Trees
 1.Find the min node in the tree
 2.Find the sum of all node of the tree
+3.Find a node in binary tree also count the frequency 
+4.Find the height of a binary tree
+5.Diameter of binary tree
+
+Binary search tree
+1.Find a node/value in bst
+2.Add a new node to BST

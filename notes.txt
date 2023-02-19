@@ -1,0 +1,8 @@
+Linear data structure
+Array, arraylist, linkedlist, stack, queues
+
+Hericchal data structure
+Generic trees, binary trees, B.st, etc...
+
+Tabular data structure
+Hashmap, heap
