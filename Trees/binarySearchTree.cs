@@ -27,24 +27,24 @@ namespace Trees
         //At any point of time left of tree is always lower than right of tree
         //Left to right in ascending order for any node of the tree
 
-        // public static void Main(string[] args)
-        // {
-        //     TreeNode rnode = new TreeNode{
-        //         val=50, left=new TreeNode{val=45,right=null,left=null }, right= new TreeNode{val=60,right=null,left= null}
-        //     };
-        //     TreeNode lnode = new TreeNode{
-        //         val=30, left=new TreeNode{val=25,right=null,left=null }, right= new TreeNode{val=35,right=null,left=null }
-        //     };
-        //     TreeNode tree = new TreeNode{
-        //         val=40, left=lnode, right= rnode
-        //     };
+        public static void Main(string[] args)
+        {
+            TreeNode rnode = new TreeNode{
+                val=50, left=new TreeNode{val=45,right=null,left=null }, right= new TreeNode{val=60,right=null,left= null}
+            };
+            TreeNode lnode = new TreeNode{
+                val=30, left=new TreeNode{val=25,right=null,left=null }, right= new TreeNode{val=35,right=null,left=null }
+            };
+            TreeNode tree = new TreeNode{
+                val=40, left=lnode, right= rnode
+            };
 
-        //     // bool res = searchBST(tree, 601);
-        //     // if (res==true) Console.WriteLine("Node available");
-        //     // else Console.WriteLine("Node not available");
+            // bool res = searchBST(tree, 601);
+            // if (res==true) Console.WriteLine("Node available");
+            // else Console.WriteLine("Node not available");
 
-        //     TreeNode node = new TreeNode{ val=55, left=null, right=null};
-        // }
+            TreeNode node = new TreeNode{ val=55, left=null, right=null};
+        }
 
         public static bool searchBST(TreeNode root, int element){
             //Base case
@@ -62,6 +62,10 @@ namespace Trees
 
             // if(root.val<element) return addNodeBST(root.right);
             // else return addNodeBST(root.left);
+        }
+
+        public static void levelOrderTraversal(TreeNode root){
+            
         }
     }
 }

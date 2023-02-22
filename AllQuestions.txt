@@ -1,3 +1,15 @@
+Dynamic programming
+1.Fibonacy, equiset problem
+2.Houserobber problem
+3.Knapsack problem
+4.Subset sum problem
+
+Recursion
+1.Climbing stairs problem
+2.MazePath
+3.Subsequence
+4.Tower of Hanio
+
 Stack questions
 1.Bracket balancing problem(find duplicate brackets)
 2.Next greater element to left
@@ -22,3 +34,4 @@ Trees
 Binary search tree
 1.Find a node/value in bst
 2.Add a new node to BST
+3.Level order traversal

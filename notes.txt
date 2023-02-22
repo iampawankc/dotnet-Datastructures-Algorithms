@@ -6,3 +6,25 @@ Generic trees, binary trees, B.st, etc...
 
 Tabular data structure
 Hashmap, heap
+
+
+HashSet:
+//Hashset is a collection of only unique elements, the order of elements 
+//within the hashset cannot be controlled. when inserting, If elements already exists, 
+// it gets overritten
+Can add elements, remove elements, check if element already exists.
+Size of hashmap: Can be used to figure out total number of unique elements.
+
+Hashmap/Dictionary:
+Stores key-value pair
+If we add a pair whose key is already in dict, the value will get updated.
+Get frequency of all unique elements
+
+
+Advanced DSA =3.5 Months
+LLD in Java, 
+Happening from 21 Feb, Tues, Thurs, Fri (Morning 2 to 9)
+evening 8 to 11 also Happening
+
+System design: from Feb 26. 8:30 to 12
+
