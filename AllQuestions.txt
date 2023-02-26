@@ -35,3 +35,15 @@ Binary search tree
 1.Find a node/value in bst
 2.Add a new node to BST
 3.Level order traversal
+
+PriorityQueue
+1.
+2.
+
+Graphs
+
+
+
+
+CodeMaze - blogging
+https://code-maze.com/write-for-codemaze/?source=content

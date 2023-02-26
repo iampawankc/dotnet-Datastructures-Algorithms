@@ -1,7 +1,0 @@
-Stack questions
-1.Bracket balancing problem(find duplicate brackets)
-2.Next greater element to left
-3.Next greater element to right
-4.Next smaller element to left
-5.Next smaller element to right
-6.Largest area histogram
